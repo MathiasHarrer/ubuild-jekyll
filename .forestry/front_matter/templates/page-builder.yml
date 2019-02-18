@@ -32,5 +32,9 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+- type: color
+  config:
+    color_format: Hex
+  default: "#F8E71C"
 pages:
 - index.md
